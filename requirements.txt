@@ -17,4 +17,4 @@ messages
 js2py
 cfscrape
 lk21
-yt-dlp==2021.12.27
+yt_dlp==2021.12.27
