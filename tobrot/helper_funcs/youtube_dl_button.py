@@ -118,7 +118,7 @@ async def youtube_dl_call_back(bot, update):
                 break
 
         command_to_exec = [
-            "yt_dlp",
+            "yt-dlp",
             "-c",
             "--embed-subs",
             "-f",
